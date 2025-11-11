@@ -9,6 +9,6 @@ I'm a 2nd-year B.Tech student at MNNIT Allahabad, passionate about Web developme
 
 🤝 I’m looking to collaborate on innovative web apps.
 
-💬 Ask me about HTML, CSS, JavaScript, libraries like ReactJs and Node.Js in web dev.
+💬 Ask me about HTML, CSS, JavaScript, libraries like React and Node.Js in web dev.
 
 📫 How to reach me: 🔗 email: shouryashivhare2711@gmail.com 🔗 LinkedIn: https://www.linkedin.com/in/shourya-shivhare-a9444130a/
