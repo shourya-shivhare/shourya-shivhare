@@ -18,7 +18,7 @@
 
 ## About me
 
-- 🎓 2nd-year B.Tech student at **MNNIT Allahabad**
+- 🎓 3rd-year **Computer Science and Engineering (CSE)** student at **MNNIT Allahabad**
 - 🚀 Building practical web applications and AI-powered products
 - 🌱 Currently deepening my knowledge of **backend engineering and system design**
 - 🧠 Enjoy solving problems, learning new technologies, and turning ideas into usable products
