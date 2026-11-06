@@ -32,21 +32,12 @@
 
 **Interests:** Full-stack development · REST APIs · AI/LLM applications · RAG · databases · competitive programming
 
-## Main projects
-
-These are my primary projects and the work I’m most focused on:
+## Projects
 
 | Project | What it does |
 | --- | --- |
 | [**CapitalScale**](https://github.com/shourya-shivhare/CapitalScale) | AI-powered SME loan underwriting platform using OCR, LLM extraction, RAG, and microservices. |
 | [**TripSetGo**](https://github.com/shourya-shivhare/TripSetGo) | LLM-based travel itinerary generator for personalized trips across India. |
-
-## Secondary projects
-
-| Project | What it does |
-| --- | --- |
-| [**FasalSaathi**](https://github.com/shourya-shivhare/FasalSaathi) | Agricultural advisory platform with crop guidance, pest detection, market intelligence, and AI agents. |
-| [**Education and Academics Management System**](https://github.com/shourya-shivhare/Education-and-Academics-Management-System) | DBMS-first platform for enrollment, attendance, marks, reports, and at-risk student analysis. |
 
 ## GitHub activity
 
